@@ -12,15 +12,15 @@ Each chapter covers **practical exercises** executed using the AWS Management Co
 | Chapter | Topic | Document Link |
 |--------|-------|----------------|
 | Chapter 2 | Identity and Access Management (IAM) | [`IAM_Lab_Chapter2.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
-| Chapter 3 | EC2 and EBS | [`EC2_EBS_Lab_Chapter3.pdf`](./EC2_EBS_Lab_Chapter3.pdf) |
-| Chapter 4 | Elastic Load Balancing & Auto Scaling | [`ELB_AutoScaling_Lab_Chapter4.pdf`](./ELB_AutoScaling_Lab_Chapter4.pdf) |
-| Chapter 5 | S3 and Glacier Storage | [`S3_Glacier_Lab_Chapter5.pdf`](./S3_Glacier_Lab_Chapter5.pdf) |
-| Chapter 6 | CloudFront and CDN | [`CloudFront_Lab_Chapter6.pdf`](./CloudFront_Lab_Chapter6.pdf) |
-| Chapter 7 | Route 53 and DNS | [`Route53_Lab_Chapter7.pdf`](./Route53_Lab_Chapter7.pdf) |
-| Chapter 8 | VPC and Networking | [`VPC_Networking_Lab_Chapter8.pdf`](./VPC_Networking_Lab_Chapter8.pdf) |
-| Chapter 9 | Databases on AWS (RDS, DynamoDB) | [`Databases_Lab_Chapter9.pdf`](./Databases_Lab_Chapter9.pdf) |
-| Chapter 10 | Monitoring and Metrics (CloudWatch) | [`CloudWatch_Lab_Chapter10.pdf`](./CloudWatch_Lab_Chapter10.pdf) |
-| Chapter 11 | Security and Compliance (KMS, CloudTrail) | [`Security_Lab_Chapter11.pdf`](./Security_Lab_Chapter11.pdf) |
+| Chapter 3 | EC2 and EBS | [`EC2_EBS_Lab_Chapter3.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 4 | Elastic Load Balancing & Auto Scaling | [`ELB_AutoScaling_Lab_Chapter4.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 5 | S3 and Glacier Storage | [`S3_Glacier_Lab_Chapter5.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 6 | CloudFront and CDN | [`CloudFront_Lab_Chapter6.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 7 | Route 53 and DNS | [`Route53_Lab_Chapter7.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 8 | VPC and Networking | [`VPC_Networking_Lab_Chapter8.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 9 | Databases on AWS (RDS, DynamoDB) | [`Databases_Lab_Chapter9.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 10 | Monitoring and Metrics (CloudWatch) | [`CloudWatch_Lab_Chapter10.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
+| Chapter 11 | Security and Compliance (KMS, CloudTrail) | [`Security_Lab_Chapter11.pdf`](https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
 
 ---
 
