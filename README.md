@@ -11,7 +11,7 @@ Each chapter covers **practical exercises** executed using the AWS Management Co
 
 | Chapter | Topic | Document Link |
 |--------|-------|----------------|
-| Chapter 2 | Identity and Access Management (IAM) | [`IAM_Lab_Chapter2.pdf`](./IAM_Lab_Chapter2.pdf) |
+| Chapter 2 | Identity and Access Management (IAM) | [`IAM_Lab_Chapter2.pdf`](./https://smu.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=01SMU_INST:01SMU&search_scope=MyInst_and_CI&tab=Everything&docid=alma9953269578103716) |
 | Chapter 3 | EC2 and EBS | [`EC2_EBS_Lab_Chapter3.pdf`](./EC2_EBS_Lab_Chapter3.pdf) |
 | Chapter 4 | Elastic Load Balancing & Auto Scaling | [`ELB_AutoScaling_Lab_Chapter4.pdf`](./ELB_AutoScaling_Lab_Chapter4.pdf) |
 | Chapter 5 | S3 and Glacier Storage | [`S3_Glacier_Lab_Chapter5.pdf`](./S3_Glacier_Lab_Chapter5.pdf) |
